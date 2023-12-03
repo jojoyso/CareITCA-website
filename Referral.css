@@ -1,0 +1,99 @@
+*{
+	marging: 0;
+	padding: 0;	
+}
+body {
+	background-image: linear-gradient(45deg, #138fc7 0%, #44f3c9 100%);
+}
+body {
+	font-family: "Times New Roman", Times, serif;
+}
+body {
+	margin: 20px;
+}
+img {
+  border-radius: 60%;
+}	
+h2, div {
+	text-align: left;
+	padding: 20px;
+}
+#ul2{
+  float: right;
+  position: relative;
+  Top: 10px;
+  right: 10px;
+	}	
+#box3 
+a:link, a:visited {
+  background-color: darkblue;
+  color: aqua;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 15px;
+}
+form#action{
+margin: 40px;
+}
+label {
+	font-family: Times New Roman", Times, serif;
+	font-size: 18px;
+	font-style: bold italic;
+	margin: 20px;
+}
+input{
+	width: 300px;
+	border: 1px solid, #add;
+	border-radius: 10px;
+	outline: 0;
+	padding: 7px;
+	margin: 20px;
+	background: #fff;
+	box-shadow:0 0 15px 10px rgba(0,0,0,0.06);
+	rgba (0,0,0,0.3);
+}
+input, textarea{
+font-size: Times New Roman", Times, serif;
+font-size: 18px;
+border-radius: 15px;
+margin: 20px;
+}
+input, textarea {
+        padding: 5px 15px;
+        background: white;
+        border: 0 none;
+        cursor: pointer;
+        border-radius: 5px;
+}
+form {
+	background-color: gainsboro;
+	width: 600px;
+	border: 20px solid, grey;
+	border-radius: 10px;
+	outline: 0;
+	margin: 20px;
+}
+p{
+font-size: Times New Roman", Times, serif;
+font-size: 18px;
+margin: 20px;	
+}
+button{
+margin: 20px;
+}
+p, textarea{
+	border-radius: 15px;
+}
+button {
+background-color: orange;
+font-size: Times New Roman", Times, serif;
+font-size: 60px;
+margin: 20px;
+width: 200px;
+border: 20px solid, grey;
+border-radius: 10px;
+outline: 20;
+}
+

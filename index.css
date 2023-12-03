@@ -1,0 +1,85 @@
+body{
+    background-image: linear-gradient(45deg, #138fc7 0%, #44f3c9 100%);  
+}
+div {
+	 font-family: "Times New Roman", Times, serif;
+}
+h1, h2, body, p {
+  font-family: "Times New Roman", Times, serif;
+}
+ul {
+	  font-family: "Times New Roman", Times, serif;
+	}
+#ul1 {
+  float: right;
+  position: relative;
+  Top: -15px;
+  right: 10px;
+}
+#ul2{
+  float: right;
+  position: relative;
+  Top: 70px;
+  left: 300px;
+	}
+#box2
+a:link, a:visited {
+  background-color: orange;
+  color: darkblue;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 15px;
+}	
+#box3 
+a:link, a:visited {
+  background-color: darkblue;
+  color: aqua;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 15px;
+}		
+h1 {
+color: black;
+text-align: center; 
+position: relative;
+Top: 20px;
+left: 0px;
+}
+
+table{	
+position: relative;
+Top: 70px;
+margin-left:5%;
+}
+
+h2{	
+position: relative;
+font-style: italic;	
+text-align: center;
+color: white;
+
+}
+
+h4{
+font-style: italic;	
+text-align: left;
+position: relative;
+left: 10%;
+}	
+p {
+font: "Times New Roman", Times, serif;
+font-size: 15;	
+}
+td{
+float: left;
+position: relative;
+Top: -75px;
+margin-left: auto;
+}
+img{
+  border-radius: 25px;	
+}

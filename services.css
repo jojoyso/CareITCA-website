@@ -1,0 +1,100 @@
+body{
+    background-image: linear-gradient(45deg, #138fc7 0%, #44f3c9 100%);
+}
+div {
+	  font-family: "Times New Roman", Times, serif;
+	}
+h1, h2, body, p {
+  font-family: "Times New Roman", Times, serif;
+}
+ul {
+	  font-family: "Times New Roman", Times, serif;
+	}
+#ul1 {
+  float: right;
+  position: relative;
+  Top: -15px;
+  right: 10px;
+}
+#ul2{
+  float: right;
+  position: relative;
+  Top: 70px;
+  left: 300px;
+	}
+#box2
+a:link, a:visited {
+  background-color: orange;
+  color: darkblue;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 15px;
+}	
+#box3 
+a:link, a:visited {
+  background-color: darkblue;
+  color: aqua;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 15px;
+}		
+
+
+.container {
+justify-content: space-evenly;
+align-items: center;
+flex-wrap: wrap;
+flex-direction: column;
+
+}
+.container{
+width: 408px;
+position: relative;
+height: 600px;
+background: #f0f0f0;
+margin: 30px 10px;
+padding: 20px 15;
+display: flex;
+flex-direction: column;
+box-shadow: 0.5px 10px #e6e6e6;
+margin-top: 5%;
+}
+
+
+.container .card imgB{
+position: relative;
+width: 26px;
+height: 260px;
+top: -60px;
+left: 10px;
+box-shadow: 0 5px 20px rbga (0,0,0,1.2);
+}
+
+.container .card .imgBx img {
+max-width: 100%;
+border-radius: 10px;
+}
+
+h2 {
+text-align: center;
+}
+
+p {
+text-align: left; 
+position: relative;
+left: 20px;
+}
+
+h1 {
+color: black;
+text-align: center; 
+position: relative;
+Top: 20px;
+left: 0px;
+}
+
+
